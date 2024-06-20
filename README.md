@@ -1,1 +1,1 @@
-# Java-uni
+In this project, we created an electronics store using Java. This simple programm keeps track of all the available devices and which are sold, takes orders when an item is not available. It also creates txt files of all the items, Sales and Ordes.
